@@ -1,2 +1,2 @@
 # Cardinal-API
-API for SA: M mod
+API for SAO mcpe mod series
